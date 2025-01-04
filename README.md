@@ -12,7 +12,7 @@ template for django start projects
   ```
 2. клонувати
 ```bash
-       git clone 'https://github.com/MyhaylovTymur/template_django.git
+       git clone 'https://github.com/MyhaylovTymur/template_django.git'
   ```
 2. створити підключити віртуальне середовище`.venv`
     ```bash
